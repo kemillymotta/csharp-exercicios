@@ -1,0 +1,10 @@
+﻿Console.ForegroundColor = ConsoleColor.Yellow;
+Console.Write("Olá usuário");
+Console.ForegroundColor = ConsoleColor.White;
+Console.Write(", ");
+Console.ForegroundColor = ConsoleColor.Green;
+Console.Write("eu me chamo ");
+Console.ForegroundColor = ConsoleColor.Blue;
+Console.Write("Kemilly");
+Console.ForegroundColor = ConsoleColor.White;
+Console.Write("!");

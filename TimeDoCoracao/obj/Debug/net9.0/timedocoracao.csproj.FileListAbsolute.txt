@@ -1,0 +1,14 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\timedocoracao\bin\Debug\net9.0\timedocoracao.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\timedocoracao\bin\Debug\net9.0\timedocoracao.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\timedocoracao\bin\Debug\net9.0\timedocoracao.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\timedocoracao\bin\Debug\net9.0\timedocoracao.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\timedocoracao\bin\Debug\net9.0\timedocoracao.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\timedocoracao\obj\Debug\net9.0\timedocoracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\timedocoracao\obj\Debug\net9.0\timedocoracao.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\timedocoracao\obj\Debug\net9.0\timedocoracao.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\timedocoracao\obj\Debug\net9.0\timedocoracao.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\timedocoracao\obj\Debug\net9.0\timedocoracao.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\timedocoracao\obj\Debug\net9.0\refint\timedocoracao.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\timedocoracao\obj\Debug\net9.0\timedocoracao.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\timedocoracao\obj\Debug\net9.0\timedocoracao.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\timedocoracao\obj\Debug\net9.0\ref\timedocoracao.dll

@@ -1,0 +1,14 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fatecrl\bin\Debug\net9.0\fatecrl.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fatecrl\bin\Debug\net9.0\fatecrl.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fatecrl\bin\Debug\net9.0\fatecrl.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fatecrl\bin\Debug\net9.0\fatecrl.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fatecrl\bin\Debug\net9.0\fatecrl.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fatecrl\obj\Debug\net9.0\fatecrl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fatecrl\obj\Debug\net9.0\fatecrl.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fatecrl\obj\Debug\net9.0\fatecrl.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fatecrl\obj\Debug\net9.0\fatecrl.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fatecrl\obj\Debug\net9.0\fatecrl.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fatecrl\obj\Debug\net9.0\refint\fatecrl.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fatecrl\obj\Debug\net9.0\fatecrl.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fatecrl\obj\Debug\net9.0\fatecrl.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fatecrl\obj\Debug\net9.0\ref\fatecrl.dll

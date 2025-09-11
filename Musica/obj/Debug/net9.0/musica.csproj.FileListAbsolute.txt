@@ -1,0 +1,14 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\musica\bin\Debug\net9.0\musica.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\musica\bin\Debug\net9.0\musica.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\musica\bin\Debug\net9.0\musica.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\musica\bin\Debug\net9.0\musica.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\musica\bin\Debug\net9.0\musica.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\musica\obj\Debug\net9.0\musica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\musica\obj\Debug\net9.0\musica.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\musica\obj\Debug\net9.0\musica.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\musica\obj\Debug\net9.0\musica.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\musica\obj\Debug\net9.0\musica.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\musica\obj\Debug\net9.0\refint\musica.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\musica\obj\Debug\net9.0\musica.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\musica\obj\Debug\net9.0\musica.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\musica\obj\Debug\net9.0\ref\musica.dll

@@ -1,0 +1,14 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\asciiart\bin\Debug\net9.0\asciiart.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\asciiart\bin\Debug\net9.0\asciiart.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\asciiart\bin\Debug\net9.0\asciiart.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\asciiart\bin\Debug\net9.0\asciiart.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\asciiart\bin\Debug\net9.0\asciiart.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\asciiart\obj\Debug\net9.0\asciiart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\asciiart\obj\Debug\net9.0\asciiart.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\asciiart\obj\Debug\net9.0\asciiart.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\asciiart\obj\Debug\net9.0\asciiart.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\asciiart\obj\Debug\net9.0\asciiart.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\asciiart\obj\Debug\net9.0\refint\asciiart.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\asciiart\obj\Debug\net9.0\asciiart.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\asciiart\obj\Debug\net9.0\asciiart.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\asciiart\obj\Debug\net9.0\ref\asciiart.dll

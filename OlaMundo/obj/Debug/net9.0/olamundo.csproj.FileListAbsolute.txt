@@ -1,0 +1,14 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\olamundo\bin\Debug\net9.0\olamundo.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\olamundo\bin\Debug\net9.0\olamundo.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\olamundo\bin\Debug\net9.0\olamundo.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\olamundo\bin\Debug\net9.0\olamundo.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\olamundo\bin\Debug\net9.0\olamundo.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\olamundo\obj\Debug\net9.0\olamundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\olamundo\obj\Debug\net9.0\olamundo.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\olamundo\obj\Debug\net9.0\olamundo.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\olamundo\obj\Debug\net9.0\olamundo.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\olamundo\obj\Debug\net9.0\olamundo.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\olamundo\obj\Debug\net9.0\refint\olamundo.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\olamundo\obj\Debug\net9.0\olamundo.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\olamundo\obj\Debug\net9.0\olamundo.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\olamundo\obj\Debug\net9.0\ref\olamundo.dll

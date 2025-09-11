@@ -1,0 +1,14 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\piada\bin\Debug\net9.0\piada.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\piada\bin\Debug\net9.0\piada.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\piada\bin\Debug\net9.0\piada.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\piada\bin\Debug\net9.0\piada.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\piada\bin\Debug\net9.0\piada.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\piada\obj\Debug\net9.0\piada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\piada\obj\Debug\net9.0\piada.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\piada\obj\Debug\net9.0\piada.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\piada\obj\Debug\net9.0\piada.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\piada\obj\Debug\net9.0\piada.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\piada\obj\Debug\net9.0\refint\piada.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\piada\obj\Debug\net9.0\piada.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\piada\obj\Debug\net9.0\piada.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\piada\obj\Debug\net9.0\ref\piada.dll

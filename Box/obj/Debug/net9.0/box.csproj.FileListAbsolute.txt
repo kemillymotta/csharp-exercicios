@@ -1,0 +1,14 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\box\bin\Debug\net9.0\box.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\box\bin\Debug\net9.0\box.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\box\bin\Debug\net9.0\box.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\box\bin\Debug\net9.0\box.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\box\bin\Debug\net9.0\box.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\box\obj\Debug\net9.0\box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\box\obj\Debug\net9.0\box.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\box\obj\Debug\net9.0\box.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\box\obj\Debug\net9.0\box.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\box\obj\Debug\net9.0\box.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\box\obj\Debug\net9.0\refint\box.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\box\obj\Debug\net9.0\box.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\box\obj\Debug\net9.0\box.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\box\obj\Debug\net9.0\ref\box.dll

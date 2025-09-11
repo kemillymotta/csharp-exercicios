@@ -1,0 +1,14 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\frutaspreferidas\bin\Debug\net9.0\frutaspreferidas.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\frutaspreferidas\bin\Debug\net9.0\frutaspreferidas.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\frutaspreferidas\bin\Debug\net9.0\frutaspreferidas.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\frutaspreferidas\bin\Debug\net9.0\frutaspreferidas.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\frutaspreferidas\bin\Debug\net9.0\frutaspreferidas.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\frutaspreferidas\obj\Debug\net9.0\frutaspreferidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\frutaspreferidas\obj\Debug\net9.0\frutaspreferidas.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\frutaspreferidas\obj\Debug\net9.0\frutaspreferidas.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\frutaspreferidas\obj\Debug\net9.0\frutaspreferidas.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\frutaspreferidas\obj\Debug\net9.0\frutaspreferidas.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\frutaspreferidas\obj\Debug\net9.0\refint\frutaspreferidas.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\frutaspreferidas\obj\Debug\net9.0\frutaspreferidas.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\frutaspreferidas\obj\Debug\net9.0\frutaspreferidas.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\frutaspreferidas\obj\Debug\net9.0\ref\frutaspreferidas.dll

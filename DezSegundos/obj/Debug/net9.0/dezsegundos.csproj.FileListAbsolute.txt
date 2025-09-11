@@ -1,0 +1,14 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\dezsegundos\bin\Debug\net9.0\dezsegundos.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\dezsegundos\bin\Debug\net9.0\dezsegundos.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\dezsegundos\bin\Debug\net9.0\dezsegundos.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\dezsegundos\bin\Debug\net9.0\dezsegundos.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\dezsegundos\bin\Debug\net9.0\dezsegundos.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\dezsegundos\obj\Debug\net9.0\dezsegundos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\dezsegundos\obj\Debug\net9.0\dezsegundos.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\dezsegundos\obj\Debug\net9.0\dezsegundos.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\dezsegundos\obj\Debug\net9.0\dezsegundos.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\dezsegundos\obj\Debug\net9.0\dezsegundos.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\dezsegundos\obj\Debug\net9.0\refint\dezsegundos.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\dezsegundos\obj\Debug\net9.0\dezsegundos.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\dezsegundos\obj\Debug\net9.0\dezsegundos.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\dezsegundos\obj\Debug\net9.0\ref\dezsegundos.dll
