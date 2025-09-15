@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\continue\\continue.csproj": {}
+    "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\Continue\\continue.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\continue\\continue.csproj": {
+    "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\Continue\\continue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\continue\\continue.csproj",
+        "projectUniqueName": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\Continue\\continue.csproj",
         "projectName": "continue",
-        "projectPath": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\continue\\continue.csproj",
+        "projectPath": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\Continue\\continue.csproj",
         "packagesPath": "C:\\Users\\kemil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\continue\\obj\\",
+        "outputPath": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\Continue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kemil\\AppData\\Roaming\\NuGet\\NuGet.Config"

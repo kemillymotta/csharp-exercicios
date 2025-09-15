@@ -1,0 +1,15 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\aulavariaveis\bin\Debug\net9.0\aulavariaveis.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\aulavariaveis\bin\Debug\net9.0\aulavariaveis.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\aulavariaveis\bin\Debug\net9.0\aulavariaveis.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\aulavariaveis\bin\Debug\net9.0\aulavariaveis.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\aulavariaveis\bin\Debug\net9.0\aulavariaveis.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\aulavariaveis\obj\Debug\net9.0\aulavariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\aulavariaveis\obj\Debug\net9.0\aulavariaveis.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\aulavariaveis\obj\Debug\net9.0\aulavariaveis.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\aulavariaveis\obj\Debug\net9.0\aulavariaveis.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\aulavariaveis\obj\Debug\net9.0\aulavariaveis.sourcelink.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\aulavariaveis\obj\Debug\net9.0\aulavariaveis.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\aulavariaveis\obj\Debug\net9.0\refint\aulavariaveis.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\aulavariaveis\obj\Debug\net9.0\aulavariaveis.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\aulavariaveis\obj\Debug\net9.0\aulavariaveis.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\aulavariaveis\obj\Debug\net9.0\ref\aulavariaveis.dll

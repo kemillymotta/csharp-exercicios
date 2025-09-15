@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\dezsegundos\\dezsegundos.csproj": {}
+    "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\DezSegundos\\dezsegundos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\dezsegundos\\dezsegundos.csproj": {
+    "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\DezSegundos\\dezsegundos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\dezsegundos\\dezsegundos.csproj",
+        "projectUniqueName": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\DezSegundos\\dezsegundos.csproj",
         "projectName": "dezsegundos",
-        "projectPath": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\dezsegundos\\dezsegundos.csproj",
+        "projectPath": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\DezSegundos\\dezsegundos.csproj",
         "packagesPath": "C:\\Users\\kemil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\dezsegundos\\obj\\",
+        "outputPath": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\DezSegundos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kemil\\AppData\\Roaming\\NuGet\\NuGet.Config"

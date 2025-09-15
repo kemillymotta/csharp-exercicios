@@ -1,0 +1,15 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\AulaNumeros\bin\Debug\net9.0\aulanumeros.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\AulaNumeros\bin\Debug\net9.0\aulanumeros.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\AulaNumeros\bin\Debug\net9.0\aulanumeros.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\AulaNumeros\bin\Debug\net9.0\aulanumeros.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\AulaNumeros\bin\Debug\net9.0\aulanumeros.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\AulaNumeros\obj\Debug\net9.0\aulanumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\AulaNumeros\obj\Debug\net9.0\aulanumeros.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\AulaNumeros\obj\Debug\net9.0\aulanumeros.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\AulaNumeros\obj\Debug\net9.0\aulanumeros.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\AulaNumeros\obj\Debug\net9.0\aulanumeros.sourcelink.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\AulaNumeros\obj\Debug\net9.0\aulanumeros.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\AulaNumeros\obj\Debug\net9.0\refint\aulanumeros.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\AulaNumeros\obj\Debug\net9.0\aulanumeros.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\AulaNumeros\obj\Debug\net9.0\aulanumeros.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\AulaNumeros\obj\Debug\net9.0\ref\aulanumeros.dll

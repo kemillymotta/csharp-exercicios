@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\olamundo\\olamundo.csproj": {}
+    "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\OlaMundo\\olamundo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\olamundo\\olamundo.csproj": {
+    "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\OlaMundo\\olamundo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\olamundo\\olamundo.csproj",
+        "projectUniqueName": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\OlaMundo\\olamundo.csproj",
         "projectName": "olamundo",
-        "projectPath": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\olamundo\\olamundo.csproj",
+        "projectPath": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\OlaMundo\\olamundo.csproj",
         "packagesPath": "C:\\Users\\kemil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\olamundo\\obj\\",
+        "outputPath": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\OlaMundo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kemil\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\frutaspreferidas\\frutaspreferidas.csproj": {}
+    "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\FrutasPreferidas\\frutaspreferidas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\frutaspreferidas\\frutaspreferidas.csproj": {
+    "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\FrutasPreferidas\\frutaspreferidas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\frutaspreferidas\\frutaspreferidas.csproj",
+        "projectUniqueName": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\FrutasPreferidas\\frutaspreferidas.csproj",
         "projectName": "frutaspreferidas",
-        "projectPath": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\frutaspreferidas\\frutaspreferidas.csproj",
+        "projectPath": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\FrutasPreferidas\\frutaspreferidas.csproj",
         "packagesPath": "C:\\Users\\kemil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\frutaspreferidas\\obj\\",
+        "outputPath": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\FrutasPreferidas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kemil\\AppData\\Roaming\\NuGet\\NuGet.Config"

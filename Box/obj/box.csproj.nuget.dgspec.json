@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\box\\box.csproj": {}
+    "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\Box\\box.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\box\\box.csproj": {
+    "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\Box\\box.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\box\\box.csproj",
+        "projectUniqueName": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\Box\\box.csproj",
         "projectName": "box",
-        "projectPath": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\box\\box.csproj",
+        "projectPath": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\Box\\box.csproj",
         "packagesPath": "C:\\Users\\kemil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\box\\obj\\",
+        "outputPath": "C:\\Users\\kemil\\OneDrive\\Documentos\\FATEC\\CSHARP FRL\\Box\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kemil\\AppData\\Roaming\\NuGet\\NuGet.Config"
