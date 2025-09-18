@@ -53,7 +53,7 @@ Console.WriteLine($"{n1} * ({n2} + {n3}) = {r2}");
 Console.WriteLine($"({n1} * {n2}) + {n3} = {r3}");
 Console.WriteLine($"(({n1} * {n2}) + {n3}) / {n1} = {r4}"); */
 
-Console.Write("X: ");
+/* Console.Write("X: ");
 double x = Convert.ToDouble(Console.ReadLine()!);
 Console.Write("Y: ");
 double y = Convert.ToDouble(Console.ReadLine()!);
@@ -61,7 +61,7 @@ Console.Write("Z: ");
 double z = Convert.ToDouble(Console.ReadLine()!); 
 
 double media1 = (x + y + z) / 3;
-Console.WriteLine($"A média aritmética entre os números é: {media1:N1}");
+Console.WriteLine($"A média aritmética entre os números é: {media1:N1}"); */
 
 Console.Write("A: ");
 decimal a = Convert.ToDecimal(Console.ReadLine()!);

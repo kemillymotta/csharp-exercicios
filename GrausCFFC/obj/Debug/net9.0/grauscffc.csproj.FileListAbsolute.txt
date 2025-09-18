@@ -1,0 +1,15 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\grauscffc\bin\Debug\net9.0\grauscffc.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\grauscffc\bin\Debug\net9.0\grauscffc.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\grauscffc\bin\Debug\net9.0\grauscffc.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\grauscffc\bin\Debug\net9.0\grauscffc.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\grauscffc\bin\Debug\net9.0\grauscffc.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\grauscffc\obj\Debug\net9.0\grauscffc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\grauscffc\obj\Debug\net9.0\grauscffc.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\grauscffc\obj\Debug\net9.0\grauscffc.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\grauscffc\obj\Debug\net9.0\grauscffc.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\grauscffc\obj\Debug\net9.0\grauscffc.sourcelink.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\grauscffc\obj\Debug\net9.0\grauscffc.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\grauscffc\obj\Debug\net9.0\refint\grauscffc.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\grauscffc\obj\Debug\net9.0\grauscffc.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\grauscffc\obj\Debug\net9.0\grauscffc.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\grauscffc\obj\Debug\net9.0\ref\grauscffc.dll

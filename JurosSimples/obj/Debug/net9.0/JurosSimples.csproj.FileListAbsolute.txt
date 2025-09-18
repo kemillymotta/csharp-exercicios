@@ -1,0 +1,15 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\jurossimples\obj\Debug\net9.0\JurosSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\jurossimples\obj\Debug\net9.0\JurosSimples.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\jurossimples\obj\Debug\net9.0\JurosSimples.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\jurossimples\obj\Debug\net9.0\JurosSimples.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\jurossimples\obj\Debug\net9.0\JurosSimples.sourcelink.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\jurossimples\bin\Debug\net9.0\JurosSimples.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\jurossimples\bin\Debug\net9.0\JurosSimples.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\jurossimples\bin\Debug\net9.0\JurosSimples.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\jurossimples\bin\Debug\net9.0\JurosSimples.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\jurossimples\bin\Debug\net9.0\JurosSimples.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\jurossimples\obj\Debug\net9.0\JurosSimples.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\jurossimples\obj\Debug\net9.0\refint\JurosSimples.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\jurossimples\obj\Debug\net9.0\JurosSimples.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\jurossimples\obj\Debug\net9.0\JurosSimples.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\jurossimples\obj\Debug\net9.0\ref\JurosSimples.dll

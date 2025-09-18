@@ -1,0 +1,15 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\churrasco\obj\Debug\net9.0\churrasco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\churrasco\obj\Debug\net9.0\churrasco.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\churrasco\obj\Debug\net9.0\churrasco.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\churrasco\obj\Debug\net9.0\churrasco.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\churrasco\obj\Debug\net9.0\churrasco.sourcelink.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\churrasco\bin\Debug\net9.0\churrasco.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\churrasco\bin\Debug\net9.0\churrasco.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\churrasco\bin\Debug\net9.0\churrasco.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\churrasco\bin\Debug\net9.0\churrasco.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\churrasco\bin\Debug\net9.0\churrasco.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\churrasco\obj\Debug\net9.0\churrasco.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\churrasco\obj\Debug\net9.0\refint\churrasco.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\churrasco\obj\Debug\net9.0\churrasco.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\churrasco\obj\Debug\net9.0\churrasco.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\churrasco\obj\Debug\net9.0\ref\churrasco.dll

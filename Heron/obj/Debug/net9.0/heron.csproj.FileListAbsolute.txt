@@ -1,0 +1,15 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\heron\obj\Debug\net9.0\heron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\heron\obj\Debug\net9.0\heron.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\heron\obj\Debug\net9.0\heron.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\heron\obj\Debug\net9.0\heron.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\heron\obj\Debug\net9.0\heron.sourcelink.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\heron\bin\Debug\net9.0\heron.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\heron\bin\Debug\net9.0\heron.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\heron\bin\Debug\net9.0\heron.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\heron\bin\Debug\net9.0\heron.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\heron\bin\Debug\net9.0\heron.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\heron\obj\Debug\net9.0\heron.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\heron\obj\Debug\net9.0\refint\heron.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\heron\obj\Debug\net9.0\heron.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\heron\obj\Debug\net9.0\heron.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\heron\obj\Debug\net9.0\ref\heron.dll

@@ -1,0 +1,15 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\areatrianguloret\bin\Debug\net9.0\areatrianguloret.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\areatrianguloret\bin\Debug\net9.0\areatrianguloret.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\areatrianguloret\bin\Debug\net9.0\areatrianguloret.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\areatrianguloret\bin\Debug\net9.0\areatrianguloret.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\areatrianguloret\bin\Debug\net9.0\areatrianguloret.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\areatrianguloret\obj\Debug\net9.0\areatrianguloret.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\areatrianguloret\obj\Debug\net9.0\areatrianguloret.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\areatrianguloret\obj\Debug\net9.0\areatrianguloret.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\areatrianguloret\obj\Debug\net9.0\areatrianguloret.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\areatrianguloret\obj\Debug\net9.0\areatrianguloret.sourcelink.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\areatrianguloret\obj\Debug\net9.0\areatrianguloret.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\areatrianguloret\obj\Debug\net9.0\refint\areatrianguloret.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\areatrianguloret\obj\Debug\net9.0\areatrianguloret.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\areatrianguloret\obj\Debug\net9.0\areatrianguloret.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\areatrianguloret\obj\Debug\net9.0\ref\areatrianguloret.dll

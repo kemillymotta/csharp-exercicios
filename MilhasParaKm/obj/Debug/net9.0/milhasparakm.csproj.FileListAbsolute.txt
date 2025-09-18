@@ -1,0 +1,15 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasparakm\obj\Debug\net9.0\milhasparakm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasparakm\obj\Debug\net9.0\milhasparakm.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasparakm\obj\Debug\net9.0\milhasparakm.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasparakm\obj\Debug\net9.0\milhasparakm.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasparakm\obj\Debug\net9.0\milhasparakm.sourcelink.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasparakm\bin\Debug\net9.0\milhasparakm.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasparakm\bin\Debug\net9.0\milhasparakm.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasparakm\bin\Debug\net9.0\milhasparakm.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasparakm\bin\Debug\net9.0\milhasparakm.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasparakm\bin\Debug\net9.0\milhasparakm.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasparakm\obj\Debug\net9.0\milhasparakm.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasparakm\obj\Debug\net9.0\refint\milhasparakm.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasparakm\obj\Debug\net9.0\milhasparakm.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasparakm\obj\Debug\net9.0\milhasparakm.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasparakm\obj\Debug\net9.0\ref\milhasparakm.dll

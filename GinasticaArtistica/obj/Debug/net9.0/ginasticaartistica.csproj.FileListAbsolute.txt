@@ -1,0 +1,15 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\ginasticaartistica\bin\Debug\net9.0\ginasticaartistica.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\ginasticaartistica\bin\Debug\net9.0\ginasticaartistica.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\ginasticaartistica\bin\Debug\net9.0\ginasticaartistica.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\ginasticaartistica\bin\Debug\net9.0\ginasticaartistica.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\ginasticaartistica\bin\Debug\net9.0\ginasticaartistica.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\ginasticaartistica\obj\Debug\net9.0\ginasticaartistica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\ginasticaartistica\obj\Debug\net9.0\ginasticaartistica.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\ginasticaartistica\obj\Debug\net9.0\ginasticaartistica.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\ginasticaartistica\obj\Debug\net9.0\ginasticaartistica.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\ginasticaartistica\obj\Debug\net9.0\ginasticaartistica.sourcelink.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\ginasticaartistica\obj\Debug\net9.0\ginasticaartistica.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\ginasticaartistica\obj\Debug\net9.0\refint\ginasticaartistica.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\ginasticaartistica\obj\Debug\net9.0\ginasticaartistica.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\ginasticaartistica\obj\Debug\net9.0\ginasticaartistica.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\ginasticaartistica\obj\Debug\net9.0\ref\ginasticaartistica.dll

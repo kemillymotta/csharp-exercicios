@@ -1,0 +1,15 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fgts\bin\Debug\net9.0\fgts.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fgts\bin\Debug\net9.0\fgts.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fgts\bin\Debug\net9.0\fgts.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fgts\bin\Debug\net9.0\fgts.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fgts\bin\Debug\net9.0\fgts.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fgts\obj\Debug\net9.0\fgts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fgts\obj\Debug\net9.0\fgts.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fgts\obj\Debug\net9.0\fgts.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fgts\obj\Debug\net9.0\fgts.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fgts\obj\Debug\net9.0\fgts.sourcelink.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fgts\obj\Debug\net9.0\fgts.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fgts\obj\Debug\net9.0\refint\fgts.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fgts\obj\Debug\net9.0\fgts.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fgts\obj\Debug\net9.0\fgts.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\fgts\obj\Debug\net9.0\ref\fgts.dll

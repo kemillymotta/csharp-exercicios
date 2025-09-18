@@ -1,0 +1,15 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\velocmedia\bin\Debug\net9.0\velocmedia.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\velocmedia\bin\Debug\net9.0\velocmedia.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\velocmedia\bin\Debug\net9.0\velocmedia.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\velocmedia\bin\Debug\net9.0\velocmedia.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\velocmedia\bin\Debug\net9.0\velocmedia.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\velocmedia\obj\Debug\net9.0\velocmedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\velocmedia\obj\Debug\net9.0\velocmedia.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\velocmedia\obj\Debug\net9.0\velocmedia.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\velocmedia\obj\Debug\net9.0\velocmedia.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\velocmedia\obj\Debug\net9.0\velocmedia.sourcelink.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\velocmedia\obj\Debug\net9.0\velocmedia.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\velocmedia\obj\Debug\net9.0\refint\velocmedia.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\velocmedia\obj\Debug\net9.0\velocmedia.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\velocmedia\obj\Debug\net9.0\velocmedia.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\velocmedia\obj\Debug\net9.0\ref\velocmedia.dll

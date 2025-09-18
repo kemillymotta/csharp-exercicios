@@ -1,0 +1,15 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\medidas\obj\Debug\net9.0\medidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\medidas\obj\Debug\net9.0\medidas.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\medidas\obj\Debug\net9.0\medidas.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\medidas\obj\Debug\net9.0\medidas.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\medidas\obj\Debug\net9.0\medidas.sourcelink.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\medidas\bin\Debug\net9.0\medidas.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\medidas\bin\Debug\net9.0\medidas.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\medidas\bin\Debug\net9.0\medidas.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\medidas\bin\Debug\net9.0\medidas.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\medidas\bin\Debug\net9.0\medidas.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\medidas\obj\Debug\net9.0\medidas.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\medidas\obj\Debug\net9.0\refint\medidas.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\medidas\obj\Debug\net9.0\medidas.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\medidas\obj\Debug\net9.0\medidas.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\medidas\obj\Debug\net9.0\ref\medidas.dll

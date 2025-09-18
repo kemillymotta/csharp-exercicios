@@ -1,0 +1,15 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\independenciafinanceira\bin\Debug\net9.0\independenciafinanceira.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\independenciafinanceira\bin\Debug\net9.0\independenciafinanceira.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\independenciafinanceira\bin\Debug\net9.0\independenciafinanceira.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\independenciafinanceira\bin\Debug\net9.0\independenciafinanceira.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\independenciafinanceira\bin\Debug\net9.0\independenciafinanceira.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\independenciafinanceira\obj\Debug\net9.0\independenciafinanceira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\independenciafinanceira\obj\Debug\net9.0\independenciafinanceira.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\independenciafinanceira\obj\Debug\net9.0\independenciafinanceira.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\independenciafinanceira\obj\Debug\net9.0\independenciafinanceira.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\independenciafinanceira\obj\Debug\net9.0\independenciafinanceira.sourcelink.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\independenciafinanceira\obj\Debug\net9.0\independenciafinanceira.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\independenciafinanceira\obj\Debug\net9.0\refint\independenciafinanceira.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\independenciafinanceira\obj\Debug\net9.0\independenciafinanceira.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\independenciafinanceira\obj\Debug\net9.0\independenciafinanceira.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\independenciafinanceira\obj\Debug\net9.0\ref\independenciafinanceira.dll
