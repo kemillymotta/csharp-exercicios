@@ -5,4 +5,4 @@ Console.Write("Rendimentos mensais (%): ");
 decimal y = Convert.ToDecimal(Console.ReadLine()!);
 
 decimal z = x / (y / 100);
-Console.WriteLine($"Para receber R$ {x} por mês com rendimentos de {y} você precisa ter investido R$ {z}.");
+Console.WriteLine($"Para receber R$ {x:N2} por mês com rendimentos de {y} você precisa ter investido R$ {z:N2}.");

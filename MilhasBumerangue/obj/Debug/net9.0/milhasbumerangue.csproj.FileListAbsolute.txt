@@ -1,0 +1,15 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasbumerangue\bin\Debug\net9.0\milhasbumerangue.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasbumerangue\bin\Debug\net9.0\milhasbumerangue.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasbumerangue\bin\Debug\net9.0\milhasbumerangue.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasbumerangue\bin\Debug\net9.0\milhasbumerangue.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasbumerangue\bin\Debug\net9.0\milhasbumerangue.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasbumerangue\obj\Debug\net9.0\milhasbumerangue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasbumerangue\obj\Debug\net9.0\milhasbumerangue.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasbumerangue\obj\Debug\net9.0\milhasbumerangue.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasbumerangue\obj\Debug\net9.0\milhasbumerangue.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasbumerangue\obj\Debug\net9.0\milhasbumerangue.sourcelink.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasbumerangue\obj\Debug\net9.0\milhasbumerangue.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasbumerangue\obj\Debug\net9.0\refint\milhasbumerangue.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasbumerangue\obj\Debug\net9.0\milhasbumerangue.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasbumerangue\obj\Debug\net9.0\milhasbumerangue.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\milhasbumerangue\obj\Debug\net9.0\ref\milhasbumerangue.dll
