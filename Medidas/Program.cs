@@ -2,7 +2,7 @@
 decimal m = Convert.ToDecimal(Console.ReadLine()!);
 
 Console.WriteLine("--- Equivalência ---");
-decimal cm = m * 1000m;
+decimal cm = m * 100m;
 Console.WriteLine($"{cm} cm");
 Console.WriteLine($"{m} m");
 decimal km = m / 1000m;

@@ -1,0 +1,15 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\formuladopadeiro\obj\Debug\net9.0\formuladopadeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\formuladopadeiro\obj\Debug\net9.0\formuladopadeiro.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\formuladopadeiro\obj\Debug\net9.0\formuladopadeiro.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\formuladopadeiro\obj\Debug\net9.0\formuladopadeiro.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\formuladopadeiro\obj\Debug\net9.0\formuladopadeiro.sourcelink.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\formuladopadeiro\bin\Debug\net9.0\formuladopadeiro.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\formuladopadeiro\bin\Debug\net9.0\formuladopadeiro.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\formuladopadeiro\bin\Debug\net9.0\formuladopadeiro.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\formuladopadeiro\bin\Debug\net9.0\formuladopadeiro.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\formuladopadeiro\bin\Debug\net9.0\formuladopadeiro.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\formuladopadeiro\obj\Debug\net9.0\formuladopadeiro.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\formuladopadeiro\obj\Debug\net9.0\refint\formuladopadeiro.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\formuladopadeiro\obj\Debug\net9.0\formuladopadeiro.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\formuladopadeiro\obj\Debug\net9.0\formuladopadeiro.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\formuladopadeiro\obj\Debug\net9.0\ref\formuladopadeiro.dll

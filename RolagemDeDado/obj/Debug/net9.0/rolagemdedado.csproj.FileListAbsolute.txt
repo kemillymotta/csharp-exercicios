@@ -1,0 +1,15 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\rolagemdedado\obj\Debug\net9.0\rolagemdedado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\rolagemdedado\obj\Debug\net9.0\rolagemdedado.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\rolagemdedado\obj\Debug\net9.0\rolagemdedado.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\rolagemdedado\obj\Debug\net9.0\rolagemdedado.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\rolagemdedado\obj\Debug\net9.0\rolagemdedado.sourcelink.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\rolagemdedado\bin\Debug\net9.0\rolagemdedado.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\rolagemdedado\bin\Debug\net9.0\rolagemdedado.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\rolagemdedado\bin\Debug\net9.0\rolagemdedado.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\rolagemdedado\bin\Debug\net9.0\rolagemdedado.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\rolagemdedado\bin\Debug\net9.0\rolagemdedado.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\rolagemdedado\obj\Debug\net9.0\rolagemdedado.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\rolagemdedado\obj\Debug\net9.0\refint\rolagemdedado.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\rolagemdedado\obj\Debug\net9.0\rolagemdedado.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\rolagemdedado\obj\Debug\net9.0\rolagemdedado.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\rolagemdedado\obj\Debug\net9.0\ref\rolagemdedado.dll

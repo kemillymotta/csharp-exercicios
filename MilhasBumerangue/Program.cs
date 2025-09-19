@@ -1,4 +1,4 @@
-﻿Console.WriteLine("--- Milhas Bumerangue");
+﻿Console.WriteLine("--- Milhas Bumerangue ---");
 
 Thread.Sleep(1000);
 

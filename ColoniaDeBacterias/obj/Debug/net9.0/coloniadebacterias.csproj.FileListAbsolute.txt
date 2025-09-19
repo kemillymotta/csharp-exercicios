@@ -1,0 +1,15 @@
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\coloniadebacterias\obj\Debug\net9.0\coloniadebacterias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\coloniadebacterias\obj\Debug\net9.0\coloniadebacterias.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\coloniadebacterias\obj\Debug\net9.0\coloniadebacterias.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\coloniadebacterias\obj\Debug\net9.0\coloniadebacterias.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\coloniadebacterias\obj\Debug\net9.0\coloniadebacterias.sourcelink.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\coloniadebacterias\bin\Debug\net9.0\coloniadebacterias.exe
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\coloniadebacterias\bin\Debug\net9.0\coloniadebacterias.deps.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\coloniadebacterias\bin\Debug\net9.0\coloniadebacterias.runtimeconfig.json
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\coloniadebacterias\bin\Debug\net9.0\coloniadebacterias.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\coloniadebacterias\bin\Debug\net9.0\coloniadebacterias.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\coloniadebacterias\obj\Debug\net9.0\coloniadebacterias.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\coloniadebacterias\obj\Debug\net9.0\refint\coloniadebacterias.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\coloniadebacterias\obj\Debug\net9.0\coloniadebacterias.pdb
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\coloniadebacterias\obj\Debug\net9.0\coloniadebacterias.genruntimeconfig.cache
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\coloniadebacterias\obj\Debug\net9.0\ref\coloniadebacterias.dll

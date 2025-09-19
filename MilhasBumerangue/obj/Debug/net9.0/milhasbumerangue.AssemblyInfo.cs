@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("milhasbumerangue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a142f658f6e388149367f67afaf1698cf238288c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37efa91b9a86ea277a929b4311865cc30369969e")]
 [assembly: System.Reflection.AssemblyProductAttribute("milhasbumerangue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("milhasbumerangue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

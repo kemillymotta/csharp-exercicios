@@ -12,3 +12,4 @@ C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\musica\obj\Debug\net9.0\refi
 C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\musica\obj\Debug\net9.0\musica.pdb
 C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\musica\obj\Debug\net9.0\musica.genruntimeconfig.cache
 C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\musica\obj\Debug\net9.0\ref\musica.dll
+C:\Users\kemil\OneDrive\Documentos\FATEC\CSHARP FRL\musica\obj\Debug\net9.0\musica.sourcelink.json

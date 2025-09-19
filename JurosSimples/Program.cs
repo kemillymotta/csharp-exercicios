@@ -10,5 +10,5 @@ int t = Convert.ToInt32(Console.ReadLine()!);
 decimal j = c * i * t;
 decimal m = c + j;
 
-Console.WriteLine($"Juros (R$): {j}");
-Console.WriteLine($"Montante (R$): {m}");
+Console.WriteLine($"Juros (R$): {j:N1}");
+Console.WriteLine($"Montante (R$): {m:N1}");
