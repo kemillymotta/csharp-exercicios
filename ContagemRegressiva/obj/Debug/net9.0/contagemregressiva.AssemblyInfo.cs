@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("contagemregressiva")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37efa91b9a86ea277a929b4311865cc30369969e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5403dfa25f568b2ed79d7f154a3487c8953f65da")]
 [assembly: System.Reflection.AssemblyProductAttribute("contagemregressiva")]
 [assembly: System.Reflection.AssemblyTitleAttribute("contagemregressiva")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
