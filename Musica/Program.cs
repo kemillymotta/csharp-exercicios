@@ -52,5 +52,7 @@ Console.WriteLine("You feel it slipping out of control");
 Console.WriteLine("But it's everything you know, now you understand");
 Console.WriteLine();
 
+Console.ReadKey(true);
 Console.ResetColor();
+Console.Clear();
 
